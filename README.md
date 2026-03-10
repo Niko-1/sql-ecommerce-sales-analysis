@@ -1,3 +1,4 @@
+
 # SQL Project: E-Commerce Sales Trend Analysis – Uncovered Key Factors Driving 15% YoY Revenue Growth
 
 # Project Overview
@@ -17,7 +18,7 @@
 
 
 
-###### Data represents 12 months of transactions from a mid-sized online retailer.Analysis Tasks
+#### Data represents 12 months of transactions from a mid-sized online retailer.Analysis Tasks
 
 
 
@@ -28,7 +29,7 @@
 
 
 
-###### SQL Code:
+#### SQL Code:
 
 
 
@@ -185,4 +186,5 @@ ORDER BY
 Insights and Business Impact
 
 The analysis revealed that electronics drove 60% of the 15% YoY growth, while apparel lagged due to seasonal dips. By reallocating marketing budget to high-growth categories, the team projected a 10% uplift in quarterly revenue. This directly informed Q2 inventory planning, reducing stockouts by 20%.
+
 
