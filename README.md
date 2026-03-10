@@ -5,7 +5,7 @@
 
 
 
-#### Completed on February 28, 2026. In my role supporting an e-commerce platform's analytics team, we noticed fluctuating sales patterns across product categories. The business needed to understand which categories were driving growth and identify underperforming areas to optimize inventory and marketing spend. This project involved querying our transactional database to analyze sales trends, customer behavior, and product performance.Dataset Structure
+#### Completed on February 28, 2026. As part of building my data analysis portfolio while preparing for junior data analyst roles, I wanted to practice real-world e-commerce analytics. I created this project using a publicly available / simulated e-commerce dataset to analyze sales trends, identify growth drivers and help understand how analytics can support inventory and marketing decisions.
 
 #### The analysis used the following tables in a PostgreSQL database (hypothetical schema for demo):
 
